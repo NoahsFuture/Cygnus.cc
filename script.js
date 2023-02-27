@@ -90,7 +90,7 @@ particlesJS('particles-js', {
         "speed": 3
       },
       "repulse": {
-        "distance": 100, //change the distance here to adjust the radius of the force field
+        "distance": 50, //change the distance here to adjust the radius of the force field
         "duration": 0.4
       },
       "push": {
